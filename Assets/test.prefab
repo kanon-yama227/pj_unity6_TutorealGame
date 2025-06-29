@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 7897703595564191273}
   - component: {fileID: 8014802881256170255}
   m_Layer: 0
-  m_Name: Hexagonal Point Top Palette
+  m_Name: test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
